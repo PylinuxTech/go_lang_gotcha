@@ -1,2 +1,2 @@
-# go_lang_gotcha
+# Go Language Gotchas
 Go Language Gotchas Code Snippet .
